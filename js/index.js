@@ -21,5 +21,5 @@ $(function() {
             $(".hong,.gao").removeClass("di");
         });
     });
-
+$('.gao').click();
 })
